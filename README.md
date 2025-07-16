@@ -12,4 +12,4 @@ To run this application:
 3. Install the libraries in requirements.txt
 4. Create the database in PostgreSQL and add the Database URL to the .env file
 5. In terminal, run: python app.py
-6. Go to http://localhost:8000/docs to check the functioning of the app
+6. Go to http://localhost:8000/docs to check the functioning of the app (FastAPI frontend)
